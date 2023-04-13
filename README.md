@@ -1,5 +1,4 @@
 # Classe Vettore
-
 Si vuole realizzare una classe Vettore con:
 
 un costruttore vuoto (che crea internamente un vettore di un solo elemento intero inizializzato a zero)
@@ -15,4 +14,4 @@ un metodo Ultimo che torna l'ultimo valore inserito
 un metodo EliminaUltimo() che torna true se riesce a eliminare l'ultimo valore inserito, false altrimenti
 
 
-# Aggiungere le proprietà private necessarie el funzionamento della classe 
+# Aggiungere le proprietà private necessarie al funzionamento della classe .
